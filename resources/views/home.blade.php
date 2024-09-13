@@ -10,6 +10,8 @@
     <nav>
         <a href="{{route('home')}}">HOME</a>
         <a href="{{route('about')}}">ABOUT</a>
+
+        
     </nav>
     <h2>welcome</h2>
 </body>
